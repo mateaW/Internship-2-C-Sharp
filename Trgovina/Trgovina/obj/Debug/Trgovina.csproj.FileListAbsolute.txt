@@ -1,0 +1,8 @@
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.AssemblyReference.cache
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.SuggestedBindingRedirects.cache
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.CoreCompileInputs.cache
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\bin\Debug\Trgovina.exe.config
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\bin\Debug\Trgovina.exe
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\bin\Debug\Trgovina.pdb
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\obj\Debug\Trgovina.exe
+C:\Users\matea\Documents\DUMP_internship\Internship-2-C-Sharp\Trgovina\Trgovina\obj\Debug\Trgovina.pdb
